@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7221F64B-35BA-4301-840F-3DA078E0AC0A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FBAPIPractice</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>42C0C147-2919-4545-B63B-C8020A2FEDF0</key>
+		<string>https://github.com/BriannaMobileApps/BornTogether.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FBAPIPractice.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>42C0C147-2919-4545-B63B-C8020A2FEDF0</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/BriannaMobileApps/BornTogether.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>42C0C147-2919-4545-B63B-C8020A2FEDF0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>42C0C147-2919-4545-B63B-C8020A2FEDF0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BornTogether repo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
